@@ -1,0 +1,20 @@
+{
+  "name": "git-workflows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akindeledby/git-workflows.git"
+  },
+  "author": "Akindele Adebayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akindeledby/git-workflows/issues"
+  },
+  "homepage": "https://github.com/akindeledby/git-workflows#readme"
+}
